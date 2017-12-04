@@ -6,6 +6,10 @@
 ## Contents
 
 - [Docker PHP sdk](#docker-php-sdk)
+- [Docker-compose php sdk](#docker-compose-php-sdk)
+- [DockerCloud php sdk](#dockercloud-php-sdk)
+- [DockerHub php sdk](#dockerhub-php-sdk)
+- [Docker 3rd party tools php sdk](#docker-3rd-party-tools-php-sdk)
 
 
 ## Docker PHP sdk (clients)
@@ -44,7 +48,7 @@
 - [realpage/waves](https://github.com/realpage/waves) - PHP client to make your life easier when talking to Docker Hub.
 
 
-# Docker 3rd party tools php sdk
+## Docker 3rd party tools php sdk
 
 - [haswalt/RancherPHP](https://github.com/haswalt/RancherPHP) - A PHP client for interacting with the Rancher API.
 - [Leen15/rancher-wrapper](https://github.com/Leen15/rancher-wrapper) - A php wrapper for use rancher API. Used for scale or upgrade services.
