@@ -29,6 +29,7 @@
 - [widuu/docker-php](https://github.com/widuu/docker-php) - Docker PHP Client API.
 - [tranduykhanh/php-docker-client](https://github.com/tranduykhanh/php-docker-client) - Docker PHP Client API.
 - [ericmdev/docker-client-php](https://github.com/ericmdev/docker-client-php) - RESTful API client for Docker in PHP.
+- [tplcom/dophpsdk](https://github.com/theodorosploumis/dophpsdk) - A simple docker php sdk.
 
 
 ## Docker-compose php sdk
